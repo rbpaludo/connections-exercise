@@ -1,0 +1,6 @@
+C:\Users\rafae\RiderProjects\Connections\Connections\bin\Debug\Connections.exe
+C:\Users\rafae\RiderProjects\Connections\Connections\bin\Debug\Connections.pdb
+C:\Users\rafae\RiderProjects\Connections\Connections\obj\Debug\Connections.csprojAssemblyReference.cache
+C:\Users\rafae\RiderProjects\Connections\Connections\obj\Debug\Connections.csproj.CoreCompileInputs.cache
+C:\Users\rafae\RiderProjects\Connections\Connections\obj\Debug\Connections.exe
+C:\Users\rafae\RiderProjects\Connections\Connections\obj\Debug\Connections.pdb
